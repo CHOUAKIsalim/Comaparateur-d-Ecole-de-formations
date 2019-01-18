@@ -1,0 +1,21 @@
+#divEcole1, #divEcole2
+{
+    width: 46%;
+    margin: 2%;
+}
+
+#ecole1, #ecole2
+{
+    width: 100%;
+}
+
+#divEcole1
+{
+    float: left;
+}
+
+
+#divEcole2
+{
+    float: right;
+}

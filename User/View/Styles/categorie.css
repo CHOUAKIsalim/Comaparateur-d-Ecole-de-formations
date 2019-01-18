@@ -1,0 +1,33 @@
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even)
+{
+    background-color: #dddddd;
+}
+
+table {
+    width: 100%;
+    margin-right: auto;
+}
+
+#tableauEcole1, #tableauEcole2
+{
+    margin-left: 0;
+    width: 100%;
+    margin-top: 2%;
+}
+
+#myInput {
+    position: center;
+    width: 100%;
+    margin-top: 2%;
+}
+th {
+    cursor: pointer;
+}
+
