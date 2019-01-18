@@ -6,3 +6,5 @@ formations selon les tarifs, les horaires, ...etc. L'utilisateur à aussi la pos
 ceux des autres si il est authentifié. 
 De plus, il y'a une partie administrateur qui permet de rajouter/supprimer/modifier/désactiver des écoles de formations, 
 de supprimer ou de désactiver des comptes d'utilisateurs et de supprimer des commentaires.
+
+Développé dans le cadre du Projet du module TDW - 2CS SIL - Ecole Supérieure d'Informatique
